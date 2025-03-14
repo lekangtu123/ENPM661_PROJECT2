@@ -6,5 +6,5 @@ How to run the code:
     
     "python3 Project2_map.py" 
     
-    in your terminal.
-    Then you will then be able to use the mouse to visualise the coordinates, which will be displayed in the bottom left corner.
+in your terminal.
+Then you will then be able to use the mouse to visualise the coordinates, which will be displayed in the bottom left corner.
